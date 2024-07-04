@@ -1,0 +1,54 @@
+body{
+    background-color:white;
+    color: white;
+    
+}
+
+
+
+label{
+    width: 150px;
+    display: inline-block;
+    margin-top: 20px;
+    /* border: 0ch; */
+    border-radius: 5px;
+    }
+
+    
+   
+input[type="text"],
+input[type="email"],
+input[type="number"],
+select,
+input[type="date"]{
+    padding: 15px;
+    font-size: 12px; 
+    margin-bottom: 5px;
+    width: 150px;
+    border: 0ch; 
+    border-radius: 5px;
+}
+
+.container{
+
+    
+    /* margin-top: 100px; */
+    /* margin-left: 500px; */
+    margin: 20px auto;
+    width: 400px;
+    padding: 20px;
+    background-color:#3392c9;
+    text-align: center; 
+    border-radius: 5px;
+    
+}
+
+.input-group{
+    margin-bottom: 20px;
+}
+
+#name{
+    margin-right: 20px;
+}
+
+
